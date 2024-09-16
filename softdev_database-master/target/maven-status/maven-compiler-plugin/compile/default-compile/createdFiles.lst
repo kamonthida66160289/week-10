@@ -1,0 +1,10 @@
+com\mycompany\softdev_database\model\User.class
+com\mycompany\softdev_database\Connect_Database.class
+com\mycompany\softdev_database\dao\UserDao.class
+com\mycompany\softdev_database\DeleteDatabase.class
+com\mycompany\softdev_database\TestUserDao.class
+com\mycompany\softdev_database\dao\Dao.class
+com\mycompany\softdev_database\InsertDatabase.class
+com\mycompany\softdev_database\UpdateDatabase.class
+com\mycompany\softdev_database\SelectDatabase.class
+com\mycompany\softdev_database\helper\DatabaseHelper.class
